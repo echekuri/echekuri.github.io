@@ -1,0 +1,203 @@
+h1{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 30px;
+  text-align: center;
+  margin-left: 10px;
+  margin-right:10px;
+}
+
+h2{
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  margin-left: 10px;
+  margin-right:10px;
+}
+
+h3{
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right:10px;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+#one{
+  position: relative;
+  width:1200px;
+  height:800px;
+  display: block;
+  margin: 0 auto;
+}
+
+.factory{
+  border-color: black;
+  border-style: double;
+  border-width: thick;
+  width:900px;
+  height:250px;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top:250px;
+}
+
+.intro{
+  border-color: black;
+  border-style: double;
+  border-width: thick;
+  width:900px;
+  height:320px;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top:250px;
+}
+
+.TW1{
+  margin-left:auto;
+  margin-right: auto;
+  width:139px;
+}
+
+.typewriter1 h2 {
+  font-family:'Lato', sans-serif;
+  overflow: hidden;
+  border-right:.10em transparent;
+  white-space: nowrap;
+  margin:0 auto;
+  letter-spacing:.10em;
+  animation:
+    typing 4s steps(50, end),
+    blink-caret .3s step-end infinite;
+}
+@keyframes typing {
+  from { width:0% }
+  to { width:100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color:transparent }
+}
+
+.TW2{
+  margin-left:auto;
+  margin-right: auto;
+  width:280px;
+}
+
+.typewriter2 h2 {
+  font-family:'Lato', sans-serif;
+  overflow: hidden;
+  border-right:.10em solid transparent;
+  white-space: nowrap;
+  margin:0 auto;
+  letter-spacing:.10em;
+  animation:
+    typing 4s steps(50, end),
+    blink-caret .3s step-end infinite;
+}
+@keyframes typing {
+  from { width:0% }
+  to { width:100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color:transparent }
+}
+
+.TW3{
+  margin-left:auto;
+  margin-right: auto;
+  width:175px;
+}
+
+.typewriter3 h2 {
+  font-family:'Lato', sans-serif;
+  overflow: hidden;
+  border-right:.10em solid transparent;
+  white-space: nowrap;
+  margin:0 auto;
+  letter-spacing:.10em;
+  animation:
+    typing 4s steps(50, end),
+    blink-caret .3s step-end infinite;
+}
+@keyframes typing {
+  from { width:0% }
+  to { width:100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color:transparent }
+}
+
+.TW4{
+  margin-left:auto;
+  margin-right: auto;
+  width:640px;
+}
+.typewriter4 h2 {
+  font-family:'Lato', sans-serif;
+  overflow: hidden;
+  border-right:.10em solid transparent;
+  white-space: nowrap;
+  margin:0 auto;
+  letter-spacing:.10em;
+  animation:
+    typing 4s steps(50, end),
+    blink-caret .3s step-end infinite;
+}
+@keyframes typing {
+  from { width:0% }
+  to { width:100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color:transparent }
+}
+
+.vid2div{
+  margin-top:-20px;
+}
+
+#two{
+  height:60%;
+  width: 60%;
+  margin-left:180px;
+}
+
+.vid3div{
+  margin-top:20px;
+}
+
+#three{
+  height:65%;
+  width:65%;
+  margin-left: 180px;
+}
+
+#soma{
+  height:100%;
+  width: 100%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.somadiv{
+  position:relative;
+  height: 700px;
+  width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  top:90px;
+}
