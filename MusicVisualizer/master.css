@@ -1,0 +1,153 @@
+h1{
+  font-family: 'Archivo Black', sans-serif;
+  font-size: 15px;
+}
+
+h2{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 15px;
+    color:rgba(0,0,0,0);
+    text-align: center;
+  }
+
+}
+
+.p5Canvas {
+ position:relative;
+ margin-left: 200px;
+ margin-top: 50px;
+}
+
+a{
+  text-decoration: none;
+  color:inherit;
+}
+
+.start{
+ position: relative;
+ width:1200px;
+ height: 700px;
+ margin-left:200px;
+ margin-top:100px;
+}
+
+.track{
+background-color:white;
+position:relative;
+width:110px;
+height:15px;
+margin-left:1373px;
+margin-top:30px;
+border-radius: 100px;
+}
+
+.one{
+  position: relative;
+  width:1665px;
+  height:923px;
+}
+
+.pic1{
+  position: relative;
+  width: 100%;
+  height:100%;
+}
+
+.song1{
+  position: relative;
+  height:155px;
+  width:255px;
+  margin-left:10px;
+  margin-top:-920px;
+  z-index:2;
+  border-radius:10px;
+}
+
+.song2{
+  position:relative;
+  height:155px;
+  width:255px;
+  border-radius: 10px;
+  margin-left: 290px;
+  margin-top:25px;
+}
+
+.song3{
+  position: relative;
+  height:155px;
+  width:255px;
+  border-radius: 10px;
+  margin-left:1120px;
+  margin-top:28px;
+}
+
+.song4{
+  position: relative;
+  height:165px;
+  width:255px;
+  border-radius: 10px;
+  margin-left:10px;
+  margin-top:20px;
+}
+
+.song5{
+  position: relative;
+  height:155px;
+  width:255px;
+  border-radius:10px;
+  margin-left:840px;
+  margin-top:25px;
+}
+
+.song6{
+  position: relative;
+  height:155px;
+  width:255px;
+  border-radius:10px;
+  margin-left:565px;
+  margin-top:-350px;
+}
+
+.song7{
+  position: relative;
+  height:155px;
+  width:255px;
+  border-radius: 10px;
+  margin-left: 1400px;
+  margin-top:20px;
+}
+
+.song8{
+  position: relative;
+  height:155px;
+  width:255px;
+  border-radius: 10px;
+  margin-left:1400px;
+  margin-top:-705px;
+}
+
+.song9{
+  position: relative;
+  height:155px;
+  width:255px;
+  border-radius: 10px;
+  margin-left:845px;
+  margin-top:-353px;
+}
+
+.song10{
+  position: relative;
+  height:155px;
+  width:255px;
+  border-radius: 10px;
+  margin-left:290px;
+  margin-top:575px;
+}
+
+ div:hover {
+  background-color:rgba(255,255,255,0.80);
+}
+
+h2:hover{
+  color: rgba(0,0,0,0.90);
+}
